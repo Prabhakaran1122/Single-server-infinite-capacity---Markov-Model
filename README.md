@@ -14,26 +14,17 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 This is a queuing model in which the arrival is Marcovian and departure distribution is also Marcovian,number of server is one and size of the queue is also Marcovian,no.of server is one and size of the queue is infinite and service discipline is 1st come 1st serve(FCFS) and the calling source is also finite.
 
 ## Procedure :
-
 ![imAGE](2.png)
-
-
-
-
-
 
 ## Experiment:
 ![Screenshot 2024-12-19 105658](https://github.com/user-attachments/assets/7ce3f2e0-1969-424a-8f9c-fa1afa7c424e)
 
-
- 
 ## Program
 ```
 DEVELOPED BY : PRABHAKARAN P
 REGISTER NO : 24007060
 ```
 ![Screenshot 2024-12-19 113421](https://github.com/user-attachments/assets/dd9395b5-1b4a-40f5-bd59-2771781f3708)
-
 
 
 ## Output :
